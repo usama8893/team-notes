@@ -1,3 +1,4 @@
 "Initial notes file" 
 "Ali: Remember to complete the project report." 
 "Sara: Update slides for presentation." 
+"Ali & Sara: Finish coding task today."
